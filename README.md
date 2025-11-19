@@ -4,6 +4,8 @@ This repository contains data produced for the Quran - Furqan app, including taf
 
 ## Download the App
 
+**Website**: [furqan.app](https://furqan.app)
+
 - **Android**: [Get it on Google Play](https://play.google.com/store/apps/details?id=app.furqan.irab)
 - **iOS**: [Download on the App Store](https://apps.apple.com/us/app/quran-furqan/id6752209578)
 - **macOS**: [Download on the App Store](https://apps.apple.com/us/app/quran-furqan/id6752209578)
