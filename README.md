@@ -34,4 +34,4 @@ This repository includes the following tafsirs (Quranic commentaries) and gramma
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You are free to use, modify, and redistribute this data. 
+This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0) - see the [LICENSE](LICENSE) file for details. You are free to share and redistribute this data with attribution, but modifications are not permitted to preserve the integrity of the content. 
