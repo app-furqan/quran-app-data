@@ -19,6 +19,7 @@ This repository includes the following tafsirs (Quranic commentaries) and gramma
 
 ### English
 - **Tafsir al-Mizan (English)** - Comprehensive philosophical tafsir by Allamah Muhammad Husayn Tabatabai (1904-1981), known for its philosophical and theological depth with a rational approach (produced using AI)
+- **Tafsir As-Safi (English)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680) (produced using AI)
 
 ### Arabic (العربية)
 - **تفسير الميزان (Tafsir al-Mizan)** - Original Arabic version by Allamah Tabatabai
@@ -26,6 +27,7 @@ This repository includes the following tafsirs (Quranic commentaries) and gramma
 
 ### Urdu (اردو)
 - **تفسیر المیزان (Tafsir al-Mizan)** - Complete Urdu translation of Allamah Tabatabai's work (produced using AI)
+- **تفسیر الصافی (Tafsir As-Safi)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680) (produced using AI)
 
 ### Persian/Farsi (فارسی)
 - **تفسیر المیزان (Tafsir al-Mizan)** - Complete Persian translation of Allamah Tabatabai's work
