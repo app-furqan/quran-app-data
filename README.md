@@ -12,7 +12,7 @@ This repository contains data produced for the Quran - Furqan app, including taf
 
 ## Included Content
 
-This repository includes the following tafsirs (Quranic commentaries) and grammatical analysis:
+This repository includes the following tafsirs (Quranic commentaries) and grammatical analysis in SQLite format:
 
 ### I'rab (Grammatical Analysis)
 - **إعراب القرآن (I'rab al-Quran)** - Comprehensive grammatical analysis of the Quran by Sheikh Muhammad Ibrahim al-Karbasi
@@ -20,6 +20,7 @@ This repository includes the following tafsirs (Quranic commentaries) and gramma
 ### English
 - **Tafsir al-Mizan (English)** - Comprehensive philosophical tafsir by Allamah Muhammad Husayn Tabatabai (1904-1981), known for its philosophical and theological depth with a rational approach (produced using AI)
 - **Tafsir As-Safi (English)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680) (produced using AI)
+- **Tafsir Noor (English)** - Contemporary tafsir
 
 ### Arabic (العربية)
 - **تفسير الميزان (Tafsir al-Mizan)** - Original Arabic version by Allamah Tabatabai
@@ -28,9 +29,11 @@ This repository includes the following tafsirs (Quranic commentaries) and gramma
 ### Urdu (اردو)
 - **تفسیر المیزان (Tafsir al-Mizan)** - Complete Urdu translation of Allamah Tabatabai's work (produced using AI)
 - **تفسیر الصافی (Tafsir As-Safi)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680) (produced using AI)
+- **تفسیر نور (Tafsir Noor)** - Contemporary tafsir
 
 ### Persian/Farsi (فارسی)
 - **تفسیر المیزان (Tafsir al-Mizan)** - Complete Persian translation of Allamah Tabatabai's work
+- **تفسیر نور (Tafsir Noor)** - Contemporary tafsir
 
 ### Quran topics by chapters by quranclassified.com by Zahra Shirdarreh of Shiraz
 
