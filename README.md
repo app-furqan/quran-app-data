@@ -17,6 +17,9 @@ This repository includes the following tafsirs (Quranic commentaries) and gramma
 ### I'rab (Grammatical Analysis)
 - **إعراب القرآن (I'rab al-Quran)** - Comprehensive grammatical analysis of the Quran by Sheikh Muhammad Ibrahim al-Karbasi
 
+### Arabic Grammar Books
+- **قطر الندى وبل الصدى (Qatr an-Nada wa Ball as-Sada)** - Classical Arabic grammar book by Ibn Hisham al-Ansari (1309-1360 CE / 708-761 AH), available in Arabic, English, Urdu, and Persian
+
 ### English
 - **Tafsir al-Mizan (English)** - Comprehensive philosophical tafsir by Allamah Muhammad Husayn Tabatabai (1904-1981), known for its philosophical and theological depth with a rational approach (produced using AI)
 - **Tafsir As-Safi (English)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680) (produced using AI)
