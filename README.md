@@ -23,7 +23,9 @@ Available in the **Sarf app**:
 - **Android**: [Get it on Google Play](https://play.google.com/store/apps/details?id=app.furqan.sarf)
 - **iOS**: [Download on the App Store](https://apps.apple.com/us/app/sarf-%D8%B5%D8%B1%D9%81/id6756084070)
 
-- **قطر الندى وبل الصدى (Qatr an-Nada wa Ball as-Sada)** - Classical Arabic grammar book by Ibn Hisham al-Ansari (1309-1360 CE / 708-761 AH), available in Arabic, English, Urdu, and Persian. This book is also available in the Sarf app!
+- **قطر الندى وبل الصدى (Qatr an-Nada wa Ball as-Sada)** - Classical Arabic grammar book by Ibn Hisham al-Ansari (1309-1360 CE / 708-761 AH), available in Arabic, English, Urdu, and Persian
+- **مغني اللبيب عن كتب الأعاريب (Mughni al-Labib)** - Comprehensive Arabic grammar book by Ibn Hisham al-Ansari, available in Arabic, English, Urdu, and Persian
+- **شرح شذور الذهب (Sharh Shudhur ad-Dhahab)** - Commentary on the Golden Fragments, a classical Arabic grammar text by Ibn Hisham al-Ansari, available in Arabic, English, Urdu, and Persian
 
 ### English
 - **Tafsir al-Mizan (English)** - Comprehensive philosophical tafsir by Allamah Muhammad Husayn Tabatabai (1904-1981), known for its philosophical and theological depth with a rational approach (produced using AI)
