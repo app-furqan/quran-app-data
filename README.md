@@ -31,6 +31,7 @@ Available in the **Sarf app**:
 - **Tafsir al-Mizan (English)** - Comprehensive philosophical tafsir by Allamah Muhammad Husayn Tabatabai (1904-1981), known for its philosophical and theological depth with a rational approach (produced using AI)
 - **Tafsir As-Safi (English)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680) (produced using AI)
 - **Tafsir Noor (English)** - Contemporary tafsir
+- **Tafsir Nemouneh (English)** - Contemporary tafsir by Grand Ayatollah Naser Makarem Shirazi (produced using AI)
 
 ### Arabic (العربية)
 - **تفسير الميزان (Tafsir al-Mizan)** - Original Arabic version by Allamah Tabatabai
@@ -40,10 +41,12 @@ Available in the **Sarf app**:
 - **تفسیر المیزان (Tafsir al-Mizan)** - Complete Urdu translation of Allamah Tabatabai's work (produced using AI)
 - **تفسیر الصافی (Tafsir As-Safi)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680) (produced using AI)
 - **تفسیر نور (Tafsir Noor)** - Contemporary tafsir
+- **تفسیر نمونہ (Tafsir Nemouneh)** - Contemporary tafsir by Grand Ayatollah Naser Makarem Shirazi (produced using AI)
 
 ### Persian/Farsi (فارسی)
 - **تفسیر المیزان (Tafsir al-Mizan)** - Complete Persian translation of Allamah Tabatabai's work
 - **تفسیر نور (Tafsir Noor)** - Contemporary tafsir
+- **تفسیر نمونه (Tafsir Nemouneh)** - Contemporary tafsir by Grand Ayatollah Naser Makarem Shirazi
 
 ### Quran topics by chapters by quranclassified.com by Zahra Shirdarreh of Shiraz
 
