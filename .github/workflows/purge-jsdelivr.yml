@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'data/**.tar.xz'
+  workflow_dispatch:
 
 jobs:
   purge:
