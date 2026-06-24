@@ -11,26 +11,22 @@ jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Purge jsDelivr CDN cache for all tar.xz files
         run: |
           REPO="app-furqan/quran-app-data"
           BRANCH="main"
           BASE_URL="https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}"
 
-          FILES=(
-            "data/ar-tafsir-al-tabari.db.tar.xz"
-            "data/irab_al_karbasi.tar.xz"
-            "data/lexicon.sqlite.tar.xz"
-            "data/muyassar.db.tar.xz"
-            "data/quran_svg.db.tar.xz"
-            "data/tafsir_almizan_ar.db.tar.xz"
-            "data/tafsir_almizan_en.db.tar.xz"
-            "data/tafsir_almizan_fa.db.tar.xz"
-            "data/tafsir_almizan_ur.db.tar.xz"
-            "data/tafsir_nemouneh_fa_en_ur.tar.xz"
-            "data/tafsir-noor.tar.xz"
-            "data/tafsir_safi_ar_en_ur.db.tar.xz"
-          )
+          # Discover every tar.xz file under data/ so new files are purged automatically.
+          mapfile -t FILES < <(find data -type f -name '*.tar.xz' | sort)
+
+          if [ "${#FILES[@]}" -eq 0 ]; then
+            echo "No tar.xz files found under data/"
+            exit 0
+          fi
 
           for FILE in "${FILES[@]}"; do
             URL="${BASE_URL}/${FILE}"
