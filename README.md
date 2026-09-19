@@ -1,6 +1,6 @@
 # Quran app by Furqan Apps
 
-This repository contains data produced for the Quran - Furqan app, including tafsirs (Quranic commentaries) in multiple languages.
+This repository contains data produced for the Quran - Furqan app, including tafsirs (Quranic commentaries), dictionaries, and grammatical analysis in multiple languages.
 
 ## Download the App
 
@@ -12,7 +12,11 @@ This repository contains data produced for the Quran - Furqan app, including taf
 
 ## Included Content
 
-This repository includes the following tafsirs (Quranic commentaries) and grammatical analysis in SQLite format:
+This repository includes the following tafsirs (Quranic commentaries), dictionaries, and grammatical analysis in SQLite format:
+
+### Dictionaries & Lexicons (المعاجم)
+- **معجم مقاييس اللغة (Mu'jam Maqayis al-Lughah)** - Classical Arabic etymological dictionary by Ibn Faris (d. 395 AH / 1004 CE), tracing words to their root semantic origins, available in Arabic, English, and Urdu
+- **المفردات في غريب القرآن (Al-Mufradat fi Gharib al-Quran)** - Classical dictionary of Quranic terms by Al-Raghib al-Isfahani, available in Arabic, English, and Urdu
 
 ### I'rab (Grammatical Analysis)
 - **إعراب القرآن (I'rab al-Quran)** - Comprehensive grammatical analysis of the Quran by Sheikh Muhammad Ibrahim al-Karbasi
