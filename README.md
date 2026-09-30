@@ -40,6 +40,7 @@ Available in the **Sarf app**:
 ### Arabic (العربية)
 - **تفسير الميزان (Tafsir al-Mizan)** - Original Arabic version by Allamah Tabatabai
 - **تفسير الصافي (Tafsir As-Safi)** - Classical tafsir by Mulla Mohsin Fayz Kashani (1598-1680)
+- **تفسير الأمثل (Tafsir Nemouneh)** - Contemporary tafsir by Grand Ayatollah Naser Makarem Shirazi (produced using AI)
 
 ### Urdu (اردو)
 - **تفسیر المیزان (Tafsir al-Mizan)** - Complete Urdu translation of Allamah Tabatabai's work (produced using AI)
